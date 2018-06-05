@@ -1,0 +1,11 @@
+{
+    "name": "MDEdit",
+    "types": [
+        "ts_list"
+    ],
+    "classRef": MDEditViz,
+    "keyMap": {
+        "click": "Execute action on current line (update or deletion)"
+    },
+    "desc": "Permits visualizing and editing metadata for a list of time series"
+}
